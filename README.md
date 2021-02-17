@@ -12,7 +12,7 @@
 
 🎬 I'm mostly interested in Networking, but I also experiment with things like AI here and there!
 
-Thanks for checking out my github!
+<h3 align="center">Thanks for checking out my github!</h3>
 
 <!--
 **ayysydney/ayysydney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
