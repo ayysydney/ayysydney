@@ -1,4 +1,16 @@
-### Hi there 👋
+<h1 align = "center">Hi! I write code 👋<h1>
+<h3 align="center">I create projects for Super8, currently techical lead on TopDown ✌️</h3>
+  
+  
+🔥 I work with C#, Javascript, Kotlin, HTML, Erlang, Golang mostly!
+
+🖥️ I'm also familiar with C++, Python, Java, PHP and SQL.
+
+📝 Mainly using Unity for my projects but I also use UE4!
+
+🎬 I'm mostly interested in Networking, but I also experiment with things like AI here and there!
+
+Thanks for checking out my github!
 
 <!--
 **ayysydney/ayysydney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
