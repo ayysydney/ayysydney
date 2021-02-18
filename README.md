@@ -2,7 +2,7 @@
   
 I create projects for Super8 and for when i need something! ✌️
 
-🔥 I work with C#, Javascript, Kotlin, HTML, Erlan and Golang mostly!
+🔥 I work with C#, Javascript, Kotlin, HTML, Erlang and Golang mostly!
 
 🖥️ I'm also familiar with C++, Python, Java, PHP and SQL.
 
