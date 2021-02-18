@@ -1,4 +1,4 @@
-<h1 align = "center">Hi! I write code 👋<h1>
+<h1 align = "center"> Hi! I write code 👋 <h1>
   
 <h3 align=" center ">I create projects for Super8, currently technical lead on TopDown ✌️</h3>
 
