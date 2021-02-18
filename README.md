@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi! I write code 👋 <h1>
+<h1 align = "center"> Hi! I write code 👋 </h1>
   
 I create projects for Super8 and for when i need something! ✌️
 
