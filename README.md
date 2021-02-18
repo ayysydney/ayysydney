@@ -4,7 +4,7 @@
 
 
 
-🔥 I work with C#, Javascript, Kotlin, HTML, Erlang, Golang mostly!
+🔥 I work with C#, Javascript, Kotlin, HTML, Erlan and Golang mostly!
 
 🖥️ I'm also familiar with C++, Python, Java, PHP and SQL.
 
