@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi! I write code 👋 <h1>
   
-###I create projects for Super8 and for when i need something! ✌️
+I create projects for Super8 and for when i need something! ✌️
 
 🔥 I work with C#, Javascript, Kotlin, HTML, Erlan and Golang mostly!
 
