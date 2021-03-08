@@ -2,13 +2,13 @@
   
 I create projects for Super8 and for when i need something! ✌️
 
-🔥 I work with C#, Javascript, Kotlin, HTML, Erlang and Golang mostly!
+🔥 I have experience with C#, Javascript, Kotlin, Java, PHP, Goland, Erlang, HTML, SQL, C++ and Python!
 
-🖥️ I'm also familiar with C++, Python, Java, PHP and SQL.
+🖥️ I'm currently working on Arkayn with Super8 Studios!
 
-📝 Mainly using Unity for my projects but I also use UE4!
+📝 Work with Node, React, Electron and Unity Mostly.
 
-🎬 I'm mostly interested in Networking, but I also experiment with things like AI here and there!
+🎵 Developer Playlist: https://open.spotify.com/playlist/2ETfb3Ae2cbQ2qcywabHl3?si=362cd3ce40ae41d8
 
 <h3 align="center">Thanks for checking out my github!</h3>
 
