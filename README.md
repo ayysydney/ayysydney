@@ -8,7 +8,7 @@ I create projects for Super8 and for when i need something! ✌️
 
 📝 Work with Node, React, Electron and Unity Mostly.
 
-🎵 Developer Playlist: https://open.spotify.com/playlist/2ETfb3Ae2cbQ2qcywabHl3?si=362cd3ce40ae41d8
+🎵 Developer Playlist: https://open.spotify.com/playlist/2ETfb3Ae2cbQ2qcywabHl3?si=362cd3ce40ae41d8 (if you are cool, so only me)
 
 <h3 align="center">Thanks for checking out my github!</h3>
 
