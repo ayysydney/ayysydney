@@ -4,7 +4,7 @@ I create projects for Super8 and for when i need something! ✌️
 
 🔥 I have experience with C#, Python, Javascript, Kotlin, Go, Python, HTML5 and CSS, C++, Java and SQL.
 
-🖥️ I'm currently working on Arkayn with Super8 Studios and AnimeCoin! A new innovative crytocurrency built for everyone!
+🖥️ I'm currently working on Arkayn with Super8 Studios and also on my own project, AnimeCoin! A new innovative crytocurrency built for everyone!
 
 📝 Work with Node, React, Electron and Unity Mostly.
 
