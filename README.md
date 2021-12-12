@@ -1,14 +1,12 @@
-<h1 align = "center"> Hi! I write code 👋 </h1>
+<h1 align = "center"> HEY! IM SYDNEY 👋 </h1>
   
-I create projects for Super8 and for when i need something! ✌️
+I'm the main developer @ Super8 ✌️
 
-🔥 I have experience with C#, Python, Javascript, Kotlin, Go, PHP, HTML5 and CSS, C++, Java and SQL.
+🔥 I have experience with many different languages, but i primary work with Javascript, Elixir, C# and Kotlin now
 
-🖥️ I'm currently working on Arkayn with Super8 Studios and other generic projects with my friends :D
+🖥️ I'm currently working on unannounced web based projects @ Super8
 
-📝 Work with Node, React, Electron and Unity Mostly.
-
-🎵 Developer Playlist: https://open.spotify.com/playlist/2ETfb3Ae2cbQ2qcywabHl3?si=362cd3ce40ae41d8 (if you are cool, so only me)
+🎵 Playlist for being productive: https://open.spotify.com/playlist/3wtVSGJLhdzN1f7yXpAHfg?si=1157662d6ab84620
 
 <h3 align="center">Thanks for checking out my github!</h3>
 
